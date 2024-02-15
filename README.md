@@ -13,10 +13,10 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 🙂 About Me :
 Degree Apprentice working as a Software Test Engineer at Airbus Defence and Space 🛰️
-- 👍 Intermediate Python Programmer
-- 🆕 Java and Gherkin Programmer
+- 🐍 Intermediate Python Programmer
+- 🆕 Beginner Java♨️ and Gherkin🥒 Programmer
 - ⚽ Assistant Football Coach
 - 👨‍🏫 Part-time Maths Tutor
 
@@ -40,3 +40,6 @@ Degree Apprentice working as a Software Test Engineer at Airbus Defence and Spac
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
