@@ -44,3 +44,6 @@ Degree Apprentice working as a Software Test Engineer at Airbus Defence and Spac
 
 ---
 
+### 📈 GitHub Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olliegroth&theme=github-dark-blue&mode=weekly&background=111111)](https://git.io/streak-stats)
